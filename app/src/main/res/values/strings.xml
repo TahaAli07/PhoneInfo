@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IMEI Check</string>
+    <string name="imei_of_your_device_is">IMEI </string>
+</resources>
